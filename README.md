@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 An amazing mern instagram clone built using react js for frontend and firebase for backend😀😎!!.
 
+# this is the backend files from the intagram clone app
+## the backend repository is here: https://github.com/biagiola/instagram-react-firebase-pusher-mongodb-backend
+
+## you can see the page here: https://instagram-clone-react-31430.web.app/
 
 ## Available Scripts
 
